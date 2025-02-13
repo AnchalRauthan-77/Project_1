@@ -1,0 +1,5 @@
+#creating a tuole using ()
+t=(9,8,7,6,5,4,4)
+print(t.count(4))
+print(t.index(5))
+print(t[0:4])
